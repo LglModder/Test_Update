@@ -1,9 +1,10 @@
 {
-    "Title": "Update Available",
-    "versionCode": "80",
-    "versionName": "5.0",
-    "updateSize": "404 MB",
-    "releaseDate": "May 5, 2025",
-    "Msg": "🎉 What's New:\n• Improved user interface\n• Added new features\n• Bug fixes and performance improvements\n• Enhanced security",
-    "downloadLink": "https://t.me/LglModder"
+"version": "4.5.1",
+"title": "Hi Users Welcome back",
+"NewVersion": "5.9.0",
+"downloadLink": "Join",
+"changeLogMessage": "This is a Notification online 💻😀",
+"negativebtn": "Close",
+"positivebtn": "Join",
+"changelogTitle": "Changelogs"
 }
